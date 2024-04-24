@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-gradient-border",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "author": "HoangDevNull",
   "description": "A Tailwind CSS plugin for automatically styling gradient border",
   "main": "src/index.js",
