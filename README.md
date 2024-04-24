@@ -2,6 +2,8 @@
 
 A Tailwind CSS plugin for automatically styling gradient border
 
+Unlike other related Tailwind plugins, this plugin allows you to specify the gradient border size or gradient colors directly in the CSS with transparent background.
+
 ## Installation
 
 Install the plugin from npm:
